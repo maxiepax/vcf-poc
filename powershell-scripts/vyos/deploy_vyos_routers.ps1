@@ -1,7 +1,7 @@
 ﻿#vmware specific
 $vc = "sfo-w01-vc01.vmlab.se"
-$vmw_username = "kjohansson@vmlab.se"
-$vmw_password = "3094Ersdufjc"
+$vmw_username = ""
+$vmw_password = ""
 $vmw_vcenter = "sfo-w01-vc01.vmlab.se"
 $vmw_esxi_host = "sfo01-w01-esx05.vmlab.se"
 $vmw_datastore = "sfo-w01-sfo-w01-vc01-sfo-w01-cl01-vsan01"
