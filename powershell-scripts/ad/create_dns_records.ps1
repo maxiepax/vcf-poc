@@ -67,7 +67,7 @@ add-aptr -a "sfo-m01-vc01.sfo" -ip "172.16.11.62"
 add-aptr -a "sfo01-m01-esx01.sfo" -ip "172.16.11.101"
 add-aptr -a "sfo01-m01-esx02.sfo" -ip "172.16.11.102"
 add-aptr -a "sfo01-m01-esx03.sfo" -ip "172.16.11.103"
-add-aptr -a "sfo01-m01-esx04" -ip "172.16.11.104"
+add-aptr -a "sfo01-m01-esx04.sfo" -ip "172.16.11.104"
  
 #A/PTR records for sfo02-m01-esx hosts
 add-aptr -a "sfo02-m01-esx01.sfo" -ip "172.16.21.101"
